@@ -1,0 +1,57 @@
+* {
+    margin: 0px;
+    padding: 10px;
+
+
+}
+
+body{
+background-image: linear-gradient(rgb(153, 86, 153),rgb(9, 9, 117))  ;
+
+
+
+}
+form{
+    width: 100%;
+    height: 100vh;
+
+
+}
+.FORMULARIO {
+background-color: rgb(169, 118, 189);
+border-radius: 20px;
+width: 500px;
+margin: auto;
+padding: 20px;
+box-shadow: 5px 10px 30px black;
+
+}
+
+h4 {
+color: white;
+text-align: center;
+font-size: 30px;
+font-style: COMIC;
+
+
+}
+.inputs{
+    width: 90%;
+    height: 30px;
+    background: none;
+    font-size: 1.2em;
+    border:1PX, solid, rgb(128, 33, 33);
+    color: white;
+    margin-bottom: 10px;
+}
+
+button{
+    color: white;
+    position: center;
+    margin: 20px auto;
+    background-color: rgb(194, 14, 149);
+    display: block;
+    cursor: pointer;
+    border: none;
+    border-radius: 10px;
+}
